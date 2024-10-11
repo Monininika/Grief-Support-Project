@@ -28,4 +28,4 @@ Eternal Call is an innovative app designed to help users reconnect with the voic
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/eternal-call.git
+git clone https://github.com/Monininika/Grief-Support-Project.git
